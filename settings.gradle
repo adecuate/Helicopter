@@ -1,0 +1,2 @@
+rootProject.name='Helicopter2'
+include ':app'
